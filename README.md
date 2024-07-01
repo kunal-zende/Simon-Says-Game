@@ -7,7 +7,7 @@ Watch and Listen: The game will light up one of the buttons and play a correspon
 Repeat the Sequence: Press the buttons in the same order the game displayed them.
 
  **The goal is to repeat the sequences for as long as possible without making a mistake.**
- 
+
  Game Benefits
 Improves Memory: Enhances short-term memory and concentration.
 Increases Attention to Detail: Players need to pay close attention to the sequences.
