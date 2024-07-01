@@ -6,6 +6,7 @@ Start the Game: Turn on the game, and it will produce a sequence of lights and s
 Watch and Listen: The game will light up one of the buttons and play a corresponding tone.
 Repeat the Sequence: Press the buttons in the same order the game displayed them.
 
+
  **The goal is to repeat the sequences for as long as possible without making a mistake.**
 
  Game Benefits
